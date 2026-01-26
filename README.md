@@ -60,7 +60,7 @@ See the `LICENSE` file for details.
 <div align="center">
 
 ----------------------
-<br/> &copy; *by Walid BOUSSOU* 🇲🇦 😄 <br/>
+<br/> &copy; *by Priyanshu Singh* 🇲🇦 😄 <br/>
 ----------------------
 
 </div>
